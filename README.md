@@ -4,7 +4,9 @@
 
 # 📸 Demo Preview
 
-<!-- Ganti link gambar di bawah dengan screenshot aplikasimu sendiri -->
+![Home Screen](demo/home.png)
+
+![Predict Screen](demo/prediction.png)
 
 # ✨ Key Features
 
